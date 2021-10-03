@@ -1,4 +1,4 @@
-Installing NodeJS and npm:
+----->  Installing NodeJS and npm:
 
 1. Download NodeJS and install.
 2. Set Path Variables  - NodeJS and node_modules
@@ -6,7 +6,7 @@ Installing NodeJS and npm:
 	node --version
 	npm --version
 
-Install Json Server:
+----->  Install Json Server:
 
 1. npm install -g json-server
 2. json-server -version
@@ -23,6 +23,17 @@ Ex:
 
   Home
   http://localhost:3000
+
+
+----->  Git Basic Commands
+
+git init
+git status
+git add .
+git status
+git commit -m "initial commit"
+git remote add origin "https://github.com/SatishKumarSinghQA/SatishSinghStudyNotes.git"
+git push -f origin master
 
 
 
