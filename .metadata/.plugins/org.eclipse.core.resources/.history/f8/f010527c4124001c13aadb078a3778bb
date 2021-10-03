@@ -1,0 +1,9 @@
+package org.POJORequests;
+
+public class PostRqst_PojoComplex_Address {
+	String H_No;
+	String Street;
+	String ZipCode;
+	
+
+}

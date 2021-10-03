@@ -1,0 +1,74 @@
+{
+  "friends": [
+    {
+      "firstname": "Raghubir",
+      "lastname": "Singh",
+      "id": "manoj",
+      "age": 38
+    },
+    {
+      "firstname": "Tejinder",
+      "lastname": "Bhatti",
+      "id": "deepak",
+      "age": 30
+    },
+    {
+      "id": "211674",
+      "firstName": "Satish",
+      "lastName": "Singh",
+      "mentorName": "Rituraaj Singh",
+      "courseName": "API Testing",
+      "designation": "SQA and Automation Associate"
+    },
+    {
+      "id": "234690",
+      "address": {
+        "zipCode": "211019",
+        "street": "Mahadev Nagar",
+        "h_No": "124/4"
+      },
+      "designation": "SQA",
+      "lastName": "Singh",
+      "courseName": "API Testing",
+      "mentorName": "Satish Singh",
+      "firstName": "Anup"
+    },
+    {
+      "firstName": "Ajay",
+      "id": "256097",
+      "address": [
+        {
+          "street": "Mahadev Nagar 1",
+          "h_No": "135/4",
+          "zipCode": "211022"
+        },
+        {
+          "street": "Mahadev Nagar 1",
+          "h_No": "145/4",
+          "zipCode": "211021"
+        }
+      ],
+      "designation": "VP",
+      "lastName": "Singh",
+      "mentorName": "SK Singh",
+      "courseName": "API Testing"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

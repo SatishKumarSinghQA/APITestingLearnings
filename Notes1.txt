@@ -1,0 +1,30 @@
+Installing NodeJS and npm:
+
+1. Download NodeJS and install.
+2. Set Path Variables  - NodeJS and node_modules
+3. Check Versions
+	node --version
+	npm --version
+
+Install Json Server:
+
+1. npm install -g json-server
+2. json-server -version
+3. Start Json Server:
+json-server --watch D:\MyWorkSpace\APITesting\db.json
+
+Ex:
+
+  Resources
+  http://localhost:3000/friends
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+
+
+
+

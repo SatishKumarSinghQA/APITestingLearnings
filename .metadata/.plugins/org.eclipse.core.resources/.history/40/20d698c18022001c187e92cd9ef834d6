@@ -1,0 +1,12 @@
+package org.POJORequests;
+
+public class POJO_PostReq {
+	String FirstName;
+	String LastName;
+	String Designation;
+	String Id;
+	String MentorName;
+	String CourseName;
+	
+
+}

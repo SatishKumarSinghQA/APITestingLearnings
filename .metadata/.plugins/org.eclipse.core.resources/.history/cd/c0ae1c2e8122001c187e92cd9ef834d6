@@ -1,0 +1,15 @@
+package org.POJORequests;
+
+import org.testng.annotations.Test;
+
+public class PostRequest {
+  @Test
+  public void POJO_PostReq() {
+	  POJO_PostReq Data= new POJO_PostReq();
+	  Data.FirstName="Satish";
+	  Data.LastName="Singh";
+	  
+	  
+  }
+  
+}

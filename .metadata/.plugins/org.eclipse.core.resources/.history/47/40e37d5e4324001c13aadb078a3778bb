@@ -1,0 +1,17 @@
+package org.POJORequests;
+
+import org.testng.annotations.Test;
+
+public class POJO_Complex_PostRequestTest {
+  @Test
+  public void f() {
+	  
+	  POJO_Complex_BasicInfo Data= new POJO_Complex_BasicInfo();
+	  Data.setFirstName("Anup");
+	  Data.setLastName("Singh");
+	  Data.setDesignation("SQA");
+	  Data.setMentorName("Satish Singh");
+	  Data.setCourseName("API Testing");
+	  Data.setId("234690");
+  }
+}

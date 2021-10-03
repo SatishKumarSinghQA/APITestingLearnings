@@ -1,0 +1,17 @@
+package org.RestAssuredTests;
+
+import org.testng.annotations.Test;
+
+import io.restassured.response.Response;
+import io.restassured.common.*;
+
+public class NewTest {
+  @Test
+  public void FirstRestAssuredTest() {
+	  
+	  Response res=
+			  given()
+			  .con
+			  
+  }
+}

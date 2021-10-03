@@ -1,0 +1,12 @@
+package org.POJORequests;
+
+public class POJO_Array_Complex_BasicInfo {
+	String FirstName;
+	String LastName;
+	String Designation;
+	String Id;
+	String MentorName;
+	String CourseName;
+	POJO_Complex_ComplexAddress Address;
+
+}
